@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on re-engineering projects<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with designing a LLM model<br>🌱 I’m currently learning designing architecture for scale<br>💬 Ask me about Product Engineering<br>⚡ Fun fact - I’ve never broken a bone, despite all the adventure sports I’ve tried
+🔭 I’m currently working on freelancing projects<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with designing a LLM model<br>🌱 I’m currently learning designing architecture for scale<br>💬 Ask me about Product Engineering<br>⚡ Fun fact - I’ve never broken a bone, despite all the adventure sports I’ve tried
 
 
 ## 🌐 Socials:
